@@ -1,0 +1,1 @@
+Not much is known of The Keeper of Secrets, Sul Khatesh.  It is believed that she is a Demon Overlord who holds sway over wizards and warlocks, 

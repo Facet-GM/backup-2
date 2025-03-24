@@ -1,0 +1,4 @@
+
+A period of time when both magical and societal powers ran unchecked through the civilizations of the world.  Magic ignited with such unpredictable ferocity that it would terraform the lands as parts of different worlds were temporarily in both places at once, or cause severe nature disasters to take place and alter the geography
+
+Society was just as unpredictable during this time.  Civilizations would crumble from within as those in power were unable to maintain their control as those below them in status began questioning their right to rule.  Riots, famine, and plagues became a common occurrence, and when the people were not suffering from that, they were made to figh

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d168334a8e3dc89",
+        "id": "3f83fdcb989c8658",
         "type": "tabs",
         "children": [
           {
-            "id": "ae18971cf8ac92cc",
+            "id": "c01adabecd629429",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,18 +163,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae18971cf8ac92cc",
+  "active": "c01adabecd629429",
   "lastOpenFiles": [
+    "Cool Ideas & Other Questions to Answer.md",
+    "GM Tools/Start of Session.md",
+    "GM Tools/Github Sucks.md",
     "backup-2",
     "The Keep on the Shadowfell/Session 1 Agents of the Empire.md",
     "The Keep on the Shadowfell/Session 2 Agents of the Empire.md",
     "The Keep on the Shadowfell/Session 3 Agents of the Empire.md",
     "GM Tools/Session Prep Template.md",
-    "Start of Session.md",
     "The Keep on the Shadowfell/White Haven.md",
     "World History/Time of Upheaval.md",
     "World History/History.md",
-    "Cool Ideas & Other Questions to Answer.md",
     "The Keep on the Shadowfell/Keep on the Shadowfell NPC",
     "The Keep on the Shadowfell/Keep on the Shadowfell NPC/Lord Padraig.md",
     "Fallcrest.md",
@@ -194,7 +196,6 @@
     "Untitled/Untitled",
     "Creatures of Sularia",
     "RPG World/Welcome.md",
-    "RPG World",
     "Untitled 1.canvas",
     "2025-02-28.md"
   ]

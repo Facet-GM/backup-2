@@ -1,0 +1,3 @@
+Ruler of the Human Kingdom. It is said that his arrival during the Time of Upheaval is what saved humankind from the point of extinction.  In the first few months of his recorded history, he quelled the riots in the capital, took control of the political system, and began expanding his rule through what was the old kingdom.  
+
+Within two years, the propaganda machines of war began to rumble as humans started hunting down any and all practitioners of magic, placing them under arrest and taking...
