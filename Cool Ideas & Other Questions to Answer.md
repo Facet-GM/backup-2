@@ -11,3 +11,5 @@ Aether is the new magic power that is used across the world?
 What is the shape of the world? How many continents are there? 
 
 Need a more planned out history of the Human Kingdom.
+
+The Kingdom of Sularia is a large desert region, how do they get around?  The idea that I have is for some type of skimmer or surfboard apparatus.
