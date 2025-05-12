@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Cool Ideas & Other Questions to Answer"
             }
+          },
+          {
+            "id": "54c1edb05a7a0bcd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,9 +162,19 @@
               "icon": "lucide-list",
               "title": "Outline of Cool Ideas & Other Questions to Answer"
             }
+          },
+          {
+            "id": "f829efe4e2dccd73",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c01adabecd629429",
+  "active": "54c1edb05a7a0bcd",
   "lastOpenFiles": [
     "The Masked King.md",
     "Cool Ideas & Other Questions to Answer.md",
