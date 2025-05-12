@@ -18,3 +18,6 @@ The people are based off the Unearthed Arcana/One DnD test race, animal headed d
 
 The Masked Kings kingdom is named......
 
+Need to consider how someone can become a demigod or a very powerful diving being, need to research into 3.5 or in the Theros setting book.
+
+
