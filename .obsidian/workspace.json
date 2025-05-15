@@ -11,10 +11,14 @@
             "id": "e8765f6a2cc8e474",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Divine Magic Ideas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Divine Magic Ideas"
             }
           }
         ]
@@ -137,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Divine Magic Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Divine Magic Ideas"
             }
           },
           {
@@ -173,10 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20a4f3d32df317c7",
+  "active": "e8765f6a2cc8e474",
   "lastOpenFiles": [
-    "The Masked King.md",
     "Cool Ideas & Other Questions to Answer.md",
+    "The Masked King.md",
+    "World History/History.md",
+    "World History/Time of Upheaval.md",
+    "Divine Magic Ideas.md",
     "Fallcrest.md",
     "Sularia/Sularia.md",
     "GM Tools/Start of Session.md",
@@ -187,8 +195,6 @@
     "The Keep on the Shadowfell/Session 3 Agents of the Empire.md",
     "GM Tools/Session Prep Template.md",
     "The Keep on the Shadowfell/White Haven.md",
-    "World History/Time of Upheaval.md",
-    "World History/History.md",
     "The Keep on the Shadowfell/Keep on the Shadowfell NPC",
     "The Keep on the Shadowfell/Keep on the Shadowfell NPC/Lord Padraig.md",
     "Species.md",
