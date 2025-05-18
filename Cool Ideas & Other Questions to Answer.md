@@ -44,6 +44,7 @@ Answer: Yes do it.
 
 Very few times has any of our games used this type of environmental or long term rule set in the world.  All of them can really keep the players on their toes and add a level of difficulty to even everyday adventures.
 
+Answer: 
 ## Travel
 
 I have been entertained by the idea of a West Marches campaign several times, and watched a video on using hexes for the Exploration phase of the game.  I do wonder when the players would see a hex map though, without it being a West Marches setting.
