@@ -63,12 +63,12 @@ Answer: Setting specific, let them know before the sessions start.
 
 What is it? When is it expected to be used? When does it get used? 
 
-Answer: 
-
+Answer: Need to set time aside to provide downtime.
 ## Crafting
 
 Does anyone plan to use it? Probably an unpopular opinion, I believe that this should be done only during downtime.  I will consider some mundane adventuring equipment to be crafted during resting periods as long as they pertain to the class.
 
+Answer: 
 ## Scheduling
 
 The biggest point of discussion on availability and hosting.
