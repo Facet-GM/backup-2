@@ -21,4 +21,32 @@ Need to consider how someone can become a demigod or a very powerful diving bein
 
 Adventure Hook/Idea - An Oracle that has not spoken or taken an audience with anyone in over a decade suddenly calls forth for one of the PCs, or the group.  This creates quite an uproar surrounding the characters as people begin questioning them about their sudden popularity. What are they told? How do they handle the before and after of speaking with the Oracle?
 
+# Rules Questions for the Group and Setting Ideas
 
+## Magic
+What is the stance about Magic in the world?  It is looked at as the cause of the world's downfall and most denizens have a very negative outlook on those that use it.  The extent of how these practitioners are handled depends on the ruling powers, the humans in the kingdom of Irios routinely hunt down and apprehend them. Classes that use magic may be restricted heavily.
+
+## Encumbrance
+Have we ever really used this rule?  Does anyone think it would change things? *It does give those with strength as a main stat contribute, but seems to turn them into Pack Mule 2*
+
+D&D Beyond does keep track of the weight on the sheets, but it does create a moment of 'inventory management' game in order to keep from being encumbered.
+
+Which version of the rule would the group like to use if we did use any of them? Will the setting of the world dictate change the minds of the group?
+
+## Hazards/Environmental
+
+Very few times has any of our games used this type of environmental or long term rule set in the world.  All of them can really keep the players on their toes and add a level of difficulty to even everyday adventures.
+
+## Travel
+
+I have been entertained by the idea of a West Marches campaign several times, and watched a video on using hexes for the Exploration phase of the game.  I do wonder when the players would see a hex map though, without it being a West Marches setting.
+
+## Fear/Mental Stress
+
+What do the players consider as something that is supernaturally frightful?  This usually at least gives those that fail the save the Frightened condition. 
+
+When a character is subjected to an effect that causes intense mental stress, Psychic damage is the best way to emulate that effect. These can have several different levels of effects; short, long, or indefinite. 
+
+## Downtime
+
+What is it? When is it expected to be used? When does it get used? 
