@@ -28,6 +28,7 @@ What is the stance about Magic in the world?  It is looked at as the cause of th
 
 Will it be divided like in the UA playtest rules?  If so I am not sure if the spell lists are completely the same and first impression is to err on the side of the Player's Handbook to keep the sheets easier to control.
 
+Answer: 
 
 ## Encumbrance
 Have we ever really used this rule?  Does anyone think it would change things? *It does give those with strength as a main stat contribute, but seems to turn them into Pack Mule 2*
