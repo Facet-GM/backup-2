@@ -53,4 +53,4 @@ What is it? When is it expected to be used? When does it get used?
 
 ## Crafting
 
-Does anyone plan to use it? 
+Does anyone plan to use it? Probably an unpopular opinion, I believe that this should be done only during downtime.  I will consider some mundane adventuring 
