@@ -38,7 +38,7 @@ D&D Beyond does keep track of the weight on the sheets, but it does create a mom
 
 Which version of the rule would the group like to use if we did use any of them? Will the setting of the world dictate change the minds of the group?
 
-Answer: 
+Answer: Yes do it.
 
 ## Hazards/Environmental
 
