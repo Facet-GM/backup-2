@@ -50,3 +50,7 @@ When a character is subjected to an effect that causes intense mental stress, Ps
 ## Downtime
 
 What is it? When is it expected to be used? When does it get used? 
+
+## Crafting
+
+Does anyone plan to use it? 
