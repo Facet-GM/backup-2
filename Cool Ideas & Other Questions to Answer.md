@@ -57,11 +57,13 @@ What do the players consider as something that is supernaturally frightful?  Thi
 
 When a character is subjected to an effect that causes intense mental stress, Psychic damage is the best way to emulate that effect. These can have several different levels of effects; short, long, or indefinite. 
 
-Answer: 
+Answer: Setting specific, let them know before the sessions start.
 
 ## Downtime
 
 What is it? When is it expected to be used? When does it get used? 
+
+Answer: 
 
 ## Crafting
 
