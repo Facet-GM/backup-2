@@ -24,7 +24,9 @@ Adventure Hook/Idea - An Oracle that has not spoken or taken an audience with an
 # Rules Questions for the Group and Setting Ideas
 
 ## Magic
-What is the stance about Magic in the world?  It is looked at as the cause of the world's downfall and most denizens have a very negative outlook on those that use it.  The extent of how these practitioners are handled depends on the ruling powers, the humans in the kingdom of Irios routinely hunt down and apprehend them. Classes that use magic may be restricted heavily and part of certain factions or nations simi
+What is the stance about Magic in the world?  It is looked at as the cause of the world's downfall and most denizens have a very negative outlook on those that use it.  The extent of how these practitioners are handled depends on the ruling powers, the humans in the kingdom of Irios routinely hunt down and apprehend them. Classes that use magic may be restricted heavily and part of certain factions or nations similarly to the guilds in Ravnica.
+
+Will it be divided liek 
 
 ## Encumbrance
 Have we ever really used this rule?  Does anyone think it would change things? *It does give those with strength as a main stat contribute, but seems to turn them into Pack Mule 2*
