@@ -28,7 +28,8 @@ What is the stance about Magic in the world?  It is looked at as the cause of th
 
 Will it be divided like in the UA playtest rules?  If so I am not sure if the spell lists are completely the same and first impression is to err on the side of the Player's Handbook to keep the sheets easier to control.
 
-Answer: 
+Answer: Look into the 3 separate schools and see how much of a difference they are and make the choice.
+
 
 ## Encumbrance
 Have we ever really used this rule?  Does anyone think it would change things? *It does give those with strength as a main stat contribute, but seems to turn them into Pack Mule 2*
@@ -36,6 +37,8 @@ Have we ever really used this rule?  Does anyone think it would change things? *
 D&D Beyond does keep track of the weight on the sheets, but it does create a moment of 'inventory management' game in order to keep from being encumbered.
 
 Which version of the rule would the group like to use if we did use any of them? Will the setting of the world dictate change the minds of the group?
+
+Answer: 
 
 ## Hazards/Environmental
 
