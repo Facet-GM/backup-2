@@ -62,3 +62,4 @@ Does anyone plan to use it? Probably an unpopular opinion, I believe that this s
 
 The biggest point of discussion on availability and hosting.
 
+Answer: 3-4 hr sessions. 
