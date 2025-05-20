@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cool Ideas & Other Questions to Answer.md",
+                "file": "GM Tools/Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cool Ideas & Other Questions to Answer"
+              "title": "Classes"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cool Ideas & Other Questions to Answer.md",
+                "file": "GM Tools/Classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cool Ideas & Other Questions to Answer"
+              "title": "Outline of Classes"
             }
           },
           {
@@ -195,8 +195,8 @@
   },
   "active": "6ba32c94af82eb39",
   "lastOpenFiles": [
-    "GM Tools/Classes.md",
     "Cool Ideas & Other Questions to Answer.md",
+    "GM Tools/Classes.md",
     "The Masked King.md",
     "GM Tools/Start of Session.md",
     "GM Tools/Session Prep Template.md",
