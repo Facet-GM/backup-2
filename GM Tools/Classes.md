@@ -7,3 +7,4 @@ Barbarian
 
 Fighter
 	As a basic class most every group in a position of authority will have at least this class available for common foot soldiers.
+
