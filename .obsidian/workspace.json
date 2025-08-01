@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Keep on the Shadowfell/White Haven.md",
+                "file": "World History/History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "White Haven"
+              "title": "History"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Keep on the Shadowfell/White Haven.md",
+                "file": "World History/History.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of White Haven"
+              "title": "Outline of History"
             }
           },
           {
@@ -195,15 +195,16 @@
   },
   "active": "6ba32c94af82eb39",
   "lastOpenFiles": [
-    "The Keep on the Shadowfell/Keep on the Shadowfell NPC/Lord Padraig.md",
+    "World History/Time of Upheaval.md",
     "The Keep on the Shadowfell/White Haven.md",
+    "Fallcrest.md",
+    "The Keep on the Shadowfell/Keep on the Shadowfell NPC/Lord Padraig.md",
     "The Keep on the Shadowfell/Session 3 Agents of the Empire.md",
     "The Keep on the Shadowfell/Session 2 A Job to Do....md",
     "The Keep on the Shadowfell/Session 1 Heroes for Hire....md",
     "Sularia/Sularia.md",
     "World History/History.md",
     "Species.md",
-    "Fallcrest.md",
     "Divine Magic Ideas.md",
     "GM Tools/Start of Session.md",
     "NPC/The Scourge.md",
@@ -212,7 +213,6 @@
     "The Masked King.md",
     "GM Tools/Session Prep Template.md",
     "GM Tools/Github Sucks.md",
-    "World History/Time of Upheaval.md",
     "backup-2",
     "The Keep on the Shadowfell/Keep on the Shadowfell NPC",
     "NPC/The Masked King.md",
