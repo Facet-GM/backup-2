@@ -2,7 +2,7 @@ How many kingdoms are there in the world?
 - Human Kingdom ruled by [[The Masked King]]
 - Human Kingdom of [[Sularia]], ruled by ....
 - Dwarven Kingdom...
-- Vedalken Kingdom, also known as the Simician People.
+- Vedalken Kingdom, also known as the Simmia.
 - A country of Beastfolk, several of the animalistic races that live in partial harmony as tribes and clans.
 
 
