@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World History/History.md",
+                "file": "Species.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "History"
+              "title": "Species"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World History/History.md",
+                "file": "Species.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of History"
+              "title": "Outline of Species"
             }
           },
           {
@@ -195,6 +195,14 @@
   },
   "active": "6ba32c94af82eb39",
   "lastOpenFiles": [
+    "The Masked King.md",
+    "NPC/Sul Khatesh.md",
+    "NPC/The Scourge.md",
+    "GM Tools/Start of Session.md",
+    "GM Tools/Session Prep Template.md",
+    "GM Tools/Github Sucks.md",
+    "GM Tools/Classes.md",
+    "World History/History.md",
     "World History/Time of Upheaval.md",
     "The Keep on the Shadowfell/White Haven.md",
     "Fallcrest.md",
@@ -203,20 +211,12 @@
     "The Keep on the Shadowfell/Session 2 A Job to Do....md",
     "The Keep on the Shadowfell/Session 1 Heroes for Hire....md",
     "Sularia/Sularia.md",
-    "World History/History.md",
     "Species.md",
     "Divine Magic Ideas.md",
-    "GM Tools/Start of Session.md",
-    "NPC/The Scourge.md",
     "Cool Ideas & Other Questions to Answer.md",
-    "GM Tools/Classes.md",
-    "The Masked King.md",
-    "GM Tools/Session Prep Template.md",
-    "GM Tools/Github Sucks.md",
     "backup-2",
     "The Keep on the Shadowfell/Keep on the Shadowfell NPC",
     "NPC/The Masked King.md",
-    "NPC/Sul Khatesh.md",
     "World History",
     "The Keep on the Shadowfell",
     "GM Tools/Speices",
