@@ -5,4 +5,8 @@ No one knows if the heroes of the realms were successful in stopping the ritual 
 
 It was long ago that the rulers of the realms sought out heroes of their realms to combat a rising evil that had spread across the world.  No records seem to have made it through the [[Time of Upheaval]], but legends, stories, and myths abound of what happened on that fateful day are spun by folk of all kind.  All that is known is that the magics of the world began to ebb and flow throughout the world. Spells and rituals that had been cast during everyday routines either fizzled, surged with unexpected power, or had various dangerous outcomes.  
 
-"War. It has dominated the history of this world in all recorded histories.  Generations, civilizations, and kingdoms have risen from the ashes to thrive for a time before falling into ruin and replaced by a new order that was strong enough to carve out its own place.  This cycle has come to an end though, as out of the chaos that has surrounded our savior has arrived. 
+"War. It has dominated the history of our world.  Leaders from tribes, clans, or small towns have gathered those like minded as they to protect those una or in need.  They grew from reputation and deeds, drawing more followers 
+
+
+
+Generations, civilizations, and kingdoms have risen from the ashes to thrive for a time before falling into ruin and replaced by a new order that was strong enough to carve out its own place.  This cycle has come to an end though, as out of the chaos that has surrounded our savior has arrived. 
