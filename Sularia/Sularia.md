@@ -2,4 +2,6 @@ A desert nation that is nestled between a large mountain range and the ocean. Th
 
 Those in power are descendants of the old divine gods(?) which is shown by the animalistic transformation they show, the more predatorial the higher the rank?
 
+Those who are not of divine/arcane blood are considered to be lower class citizens.  They are not necessarily treated unfai
+
 
