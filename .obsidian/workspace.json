@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sularia/Sularia.md",
+                "file": "The Keep on the Shadowfell/Session 1 Agents of the Empire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sularia"
+              "title": "Session 1 Agents of the Empire"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sularia/Sularia.md",
+                "file": "The Keep on the Shadowfell/Session 1 Agents of the Empire.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sularia"
+              "title": "Outline of Session 1 Agents of the Empire"
             }
           },
           {
@@ -195,6 +195,7 @@
   },
   "active": "6ba32c94af82eb39",
   "lastOpenFiles": [
+    "Sularia/Sularia.md",
     "World History/History.md",
     "Species.md",
     "Fallcrest.md",
@@ -207,7 +208,6 @@
     "GM Tools/Session Prep Template.md",
     "GM Tools/Github Sucks.md",
     "World History/Time of Upheaval.md",
-    "Sularia/Sularia.md",
     "backup-2",
     "The Keep on the Shadowfell/Session 1 Agents of the Empire.md",
     "The Keep on the Shadowfell/Session 2 Agents of the Empire.md",
