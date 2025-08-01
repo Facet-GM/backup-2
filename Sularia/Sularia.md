@@ -1,4 +1,4 @@
-Think Egyptian/
+Think Egyptian/Amonket for the theme.
 
 A desert nation that is nestled between a large mountain range and the ocean. The major metropolitan cities, towns, and villages are settled near water sources or oasis'.
 
