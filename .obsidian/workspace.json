@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World History/History.md",
+                "file": "Divine Magic Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "History"
+              "title": "Divine Magic Ideas"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World History/History.md",
+                "file": "Divine Magic Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of History"
+              "title": "Outline of Divine Magic Ideas"
             }
           },
           {
@@ -195,8 +195,8 @@
   },
   "active": "6ba32c94af82eb39",
   "lastOpenFiles": [
-    "GM Tools/Start of Session.md",
     "World History/History.md",
+    "GM Tools/Start of Session.md",
     "NPC/The Scourge.md",
     "Cool Ideas & Other Questions to Answer.md",
     "Divine Magic Ideas.md",
