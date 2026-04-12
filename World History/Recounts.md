@@ -1,4 +1,4 @@
 
 What happened at the end of the battle for the realms?  Who is to say?  I know that the sky seemed to shatter with all sorts of prismatic colors, followed by a clear dark sky.  The smell of magick permeated the air next and an uneasy feeling roiled over the lands before the very ground shook.  No one could say what had actually taken place nor explain how we all knew, but we all looked at each other and knew everything had changed.
 
-It was not long after we heard the rumors that all the casters in our regiment had lost their ability to cast spells.  Soon after even those higher ranking Wizards and Sorcerors had been rumored to no have lost their powers, even the 
+It was not long after we heard the rumors that all the casters in our regiment had lost their ability to cast spells.  Soon after even those higher ranking Wizards and Sorcerers had been rumored to no have lost their powers, even the 

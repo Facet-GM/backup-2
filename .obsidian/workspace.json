@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World History/Recounts.md",
+                "file": "Sularia/Sularia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recounts"
+              "title": "Sularia"
             }
           }
         ],
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World History/Recounts.md",
+                "file": "Sularia/Sularia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Recounts"
+              "title": "Outline of Sularia"
             }
           },
           {
