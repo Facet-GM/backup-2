@@ -1,2 +1,2 @@
 
-What happened at the end of the battle for the realms?  Who
+What happened at the end of the battle for the realms?  Who is to say?  I know that the sky seemed to shatter with all sorts of prismatic colors, followed by a clear dark sky.  The smell of magick permeated the air next
