@@ -15,7 +15,7 @@ Need a more planned out history of the Human Kingdoms.
 
 [[Sularia]] Notes/Ideas/Questions
 
-The Kingdom of Sularia is in a large desert region, how do they get around?  The idea that I have is for some type of skimmer or surfboard apparatus or caravans that travel the sands. If using the vehicles will this define their technology level of the world? Answer: Looking through the Dark Suns Setting as well as individual research, simply walking and traveling by caravans will be the way to travel around.  There will be some type of beast of burden though in giant beetles or lizards that can act as 
+The Kingdom of Sularia is in a large desert region, how do they get around?  The idea that I have is for some type of skimmer or surfboard apparatus or caravans that travel the sands. If using the vehicles will this define their technology level of the world? **Answer**: Looking through the Dark Suns Setting as well as individual research, simply walking and traveling by caravans will be the way to travel around.  There will be some type of beast of burden though in giant beetles or lizards that can act as a horse would in this case. Due to the fact the entire region is not to be a sand blasted landscape and it will have Savannah properties, chariots will be the go to military vessel.
 
 The people are based off the Unearthed Arcana/One DnD test race, animal headed divine/fey creatures.
 
