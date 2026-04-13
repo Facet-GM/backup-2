@@ -13,6 +13,8 @@ What is the shape of the world? How many continents are there?
 
 Need a more planned out history of the Human Kingdoms.
 
+[[Sularia]] Notes/Ideas/Questions
+
 The Kingdom of Sularia is in a large desert region, how do they get around?  The idea that I have is for some type of skimmer or surfboard apparatus or caravans that travel the sands. If using the vehicles will this define their technology level of the world?
 
 The people are based off the Unearthed Arcana/One DnD test race, animal headed divine/fey creatures.
