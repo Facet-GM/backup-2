@@ -4,7 +4,7 @@ A desert nation that is nestled between a large mountain range and the ocean. Th
 
 Rulers of the Safe Cities...
 
-A Sphinx (need to classify which type), *will this be a link to the Azorius Conclave?*
+Celestial beings that embody or teach 
 
 
 
