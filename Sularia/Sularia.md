@@ -2,7 +2,11 @@
 
 A desert nation that is nestled between a large mountain range and the ocean. The major metropolitan cities, towns, and villages are settled near water sources or oasis'.
 
-Those in power are descendants of the old divine gods(?) which is shown by the animalistic transformation they show, the more predatorial the higher the rank? Those that rule over the city (or cities) are Titans for an old pantheon that is barely remembered. 
+Rulers of the Safe Cities...
+
+A Sphinx (need to classify which type), *will this be a link to the Azorius Conclave?*
+
+
 
 Those who are not of divine/arcane blood are considered to be lower class citizens.  They are not necessarily treated unfairly, they are more likely to have their opinions spoken for them or to have blame and fault placed on them for not knowing better.  
 
