@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sularia/The Curse of Wandering.md",
+                "file": "Sularia/Sularia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Curse of Wandering"
+              "title": "Sularia"
             }
           }
         ],
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sularia/The Curse of Wandering.md",
+                "file": "Sularia/Sularia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Curse of Wandering"
+              "title": "Outline of Sularia"
             }
           },
           {
@@ -223,8 +223,10 @@
   },
   "active": "450b12da009f5a71",
   "lastOpenFiles": [
-    "Sularia/Sularia.md",
     "Sularia/The Curse of Wandering.md",
+    "Sularia/Sularia.md",
+    "The Keep on the Shadowfell/Keep on the Shadowfell NPC/Lord Padraig.md",
+    "The Keep on the Shadowfell/Session 1 Heroes for Hire....md",
     "World History/Recounts.md",
     "World History/History.md",
     "Divine Magic Ideas.md",
@@ -239,10 +241,8 @@
     "World History/Time of Upheaval.md",
     "The Keep on the Shadowfell/White Haven.md",
     "Fallcrest.md",
-    "The Keep on the Shadowfell/Keep on the Shadowfell NPC/Lord Padraig.md",
     "The Keep on the Shadowfell/Session 3 Agents of the Empire.md",
     "The Keep on the Shadowfell/Session 2 A Job to Do....md",
-    "The Keep on the Shadowfell/Session 1 Heroes for Hire....md",
     "Cool Ideas & Other Questions to Answer.md",
     "backup-2",
     "The Keep on the Shadowfell/Keep on the Shadowfell NPC",
