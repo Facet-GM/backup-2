@@ -55,16 +55,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sularia/Sularia.md",
+                "file": "Cool Ideas & Other Questions to Answer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sularia"
+              "title": "Cool Ideas & Other Questions to Answer"
+            }
+          },
+          {
+            "id": "57dfa7f5d28b9d35",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sularia/Sularia.md",
+                "file": "Cool Ideas & Other Questions to Answer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sularia"
+              "title": "Outline of Cool Ideas & Other Questions to Answer"
             }
           },
           {
@@ -212,6 +224,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -221,24 +234,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "450b12da009f5a71",
+  "active": "57dfa7f5d28b9d35",
   "lastOpenFiles": [
-    "Cool Ideas & Other Questions to Answer.md",
+    "GM Tools/Github Sucks.md",
+    "GM Tools/Session Prep Template.md",
+    "GM Tools/Start of Session.md",
+    "NPC/The Scourge.md",
     "Sularia/Sularia.md",
+    "GM Tools/Classes.md",
+    "Cool Ideas & Other Questions to Answer.md",
     "Sularia/The Curse of Wandering.md",
     "The Keep on the Shadowfell/Keep on the Shadowfell NPC/Lord Padraig.md",
     "The Keep on the Shadowfell/Session 1 Heroes for Hire....md",
     "World History/Recounts.md",
     "World History/History.md",
     "Divine Magic Ideas.md",
-    "GM Tools/Classes.md",
-    "GM Tools/Github Sucks.md",
     "Species.md",
     "The Masked King.md",
     "NPC/Sul Khatesh.md",
-    "NPC/The Scourge.md",
-    "GM Tools/Start of Session.md",
-    "GM Tools/Session Prep Template.md",
     "World History/Time of Upheaval.md",
     "The Keep on the Shadowfell/White Haven.md",
     "Fallcrest.md",

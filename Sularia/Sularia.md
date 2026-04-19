@@ -4,7 +4,7 @@ A desert nation that is nestled between a large mountain range and the ocean. Th
 
 Rulers of the Safe Cities...
 
-Celestial beings that embody or teach 
+Celestial beings that...do something....
 
 
 
